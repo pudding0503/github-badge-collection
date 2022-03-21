@@ -1,8 +1,9 @@
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/18262199" align="center" alt="Github Avatar" />
+ <img width="100px" src="https://github.githubassets.com/images/mona-loading-default.gif" align="center" alt="Logo" />
  <h2 align="center">Github 常用徽章合集</h2>
  <p align="center">Github Badge Collection</p>
 </p>
+
 
 ### 1. [Shields 徽章](https://shields.io/)
 
