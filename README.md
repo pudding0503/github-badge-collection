@@ -144,9 +144,23 @@ https://ghchart.rshah.org/用户名
 
 ```
 https://contrib.rocks/image?repo=用户名/仓库名
+
+仅支持 image，分辨率较低
 ```
 
 ![](https://contrib.rocks/image?repo=bitcookies/winrar-keygen)
+
+#### 3.5 [贡献人员卡片](https://opencollective.com/)
+
+```
+https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=false
+
+样式参数：?width=890&button=false
+
+支持 svg，需注册账号
+```
+
+![](https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=false)
 
 ### 4. 天气
 
