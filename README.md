@@ -132,6 +132,12 @@ https://github-readme-stats.vercel.app/api?username=用户名
 
 ![](https://github-readme-stats.vercel.app/api?username=pudding0503&show_icons=true&count_private=true&hide=prs&theme=default_repocard?colors=#fff)
 
+```
+https://github-readme-streak-stats.herokuapp.com/?user=用户名
+```
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pudding0503)
+
 #### 2.2 仓库卡片
 
 ```
@@ -153,6 +159,12 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=用户名
 ### 3. 访问量和趋势
 
 #### 3.1 访问量
+
+```
+https://komarev.com/ghpvc/?username=用户名
+```
+
+![](https://komarev.com/ghpvc/?username=pudding0503)
 
 ```
 https://api.visitorbadge.io/api/visitors?path=链接 
