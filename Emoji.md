@@ -1,7 +1,7 @@
-# Emoji
+# Emoji on Github
 
 > [!NOTE]
-> 表情显示可能会因操作系统不同而有些变化。
+> Emoji 表情显示可能会因操作系统不同而有些变化。
 
 ### 1. People
 

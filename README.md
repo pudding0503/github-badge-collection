@@ -213,7 +213,7 @@ https://ghchart.rshah.org/用户名
 
 ### 3.4 [个人贡献版贪吃蛇版](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
-![](https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ### 3.5 [贡献人员卡片](https://contrib.rocks/preview)
 
@@ -269,6 +269,8 @@ https://repobeats.axiom.co/api/embed/55ee65543bb9a0f9c797626c4e66d472a517d17c.sv
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
+
+
 ## 6. 奖杯 🏆
 
 ```
@@ -286,40 +288,14 @@ https://github-profile-trophy.vercel.app/?username=用户名
 
 
 
-## 7. 天气
-
-```
-https://weather-icon.journeyad.repl.co/@城市
-```
-
-|                       Beijing                        |                       Shanghai                        |                       London                        |
-| :--------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------: |
-| ![](https://weather-icon.journeyad.repl.co/@beijing) | ![](https://weather-icon.journeyad.repl.co/@shanghai) | ![](https://weather-icon.journeyad.repl.co/@london) |
-
-
-
-## 8. Github 活动卡片
-
-```
-https://activity-graph.herokuapp.com/graph?username=用户名
-
-主题参数：theme=xcode
-背景颜色：bg_color=FF000000
-边框参数：hide_border=true
-```
-
-![](https://activity-graph.herokuapp.com/graph?username=pudding0503&theme=xcode&bg_color=FF000000&hide_border=true)
-
-
-
-## 9. [Wakatime 图表](https://wakatime.com/)
+## 7. [Wakatime 图表](https://wakatime.com/)
 
 | ![](https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg) | ![](https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 
 
-## 10. 一些 GIF
+## 8. 一些 GIF
 
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" title="html">
@@ -334,35 +310,9 @@ https://activity-graph.herokuapp.com/graph?username=用户名
 
 
 
-## 11. Dynamic 热图
-
-<table>
-  <tr>
-    <td colspan="2" >
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/bilibili.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/shanbay.svg" />
-    </td>
-  </tr>
-</table>
 
 
-
-## 12. 3D 个人资料
+## 9. 3D 个人资料
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
