@@ -3,6 +3,12 @@
  <h2 align="center">Github 常用徽章合集</h2>
  <p align="center">Github Badge Collection</p>
 </p>
+## 0. 说明
+
+本 README 主要收集一些零散的 Github 常用徽章、标注、Markdown 技巧等，下面是一个简单指引：
+
++ [Github 支持的 Emoji](Emoji.md)
++ [Github 的 Markdown 用法](Markdown.md)
 
 
 

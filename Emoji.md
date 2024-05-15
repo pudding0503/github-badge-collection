@@ -1,4 +1,9 @@
-# People
+# Emoji
+
+> [!NOTE]
+> 表情显示可能会因操作系统不同而有些变化。
+
+### 1. People
 
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +27,7 @@
 | :ear: | :eyes: | :nose: | :tongue: | :love_letter: | :bust_in_silhouette: | :busts_in_silhouette: | :speech_balloon: | :thought_balloon: | :feelsgood: | :finnadie: | :goberserk: |
 | :godmode: | :hurtrealbad: | :rage1: | :rage2: | :rage3: | :rage4: | :suspect: | :trollface: |
 
-# Nature
+### 2. Nature
 
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -37,7 +42,7 @@
 | :new_moon: | :waxing_crescent_moon: | :first_quarter_moon: | :waxing_gibbous_moon: | :full_moon: | :waning_gibbous_moon: | :last_quarter_moon: | :waning_crescent_moon: | :last_quarter_moon_with_face: | :first_quarter_moon_with_face: | :moon: | :earth_africa: |
 | :earth_americas: | :earth_asia: | :volcano: | :milky_way: | :partly_sunny: | :octocat: | :squirrel: |
 
-# Objects
+### 3. Objects
 
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -64,7 +69,7 @@
 | :lollipop: | :honey_pot: | :apple: | :green_apple: | :tangerine: | :lemon: | :cherries: | :grapes: | :watermelon: | :strawberry: | :peach: | :melon: |
 | :banana: | :pear: | :pineapple: | :sweet_potato: | :eggplant: | :tomato: | :corn: |
 :clapper:
-# Places
+### 4. Places
 
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -77,7 +82,7 @@
 | :monorail: | :railway_car: | :trolleybus: | :ticket: | :fuelpump: | :vertical_traffic_light: | :traffic_light: | :warning: | :construction: | :beginner: | :atm: | :slot_machine: |
 | :busstop: | :barber: | :hotsprings: | :checkered_flag: | :crossed_flags: | :izakaya_lantern: | :moyai: | :circus_tent: | :performing_arts: | :round_pushpin: | :triangular_flag_on_post: | :jp: |
 | :kr: | :cn: | :us: | :fr: | :es: | :it: | :ru: | :gb: | :uk: | :de: |
-# Symbols
+### 5. Symbols
 
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -97,8 +102,7 @@
 | :copyright: | :registered: | :tm: | :x: | :heavy_exclamation_mark: | :bangbang: | :interrobang: | :o: | :heavy_multiplication_x: | :heavy_plus_sign: | :heavy_minus_sign: | :heavy_division_sign: |
 | :white_flower: | :100: | :heavy_check_mark: | :ballot_box_with_check: | :radio_button: | :link: | :curly_loop: | :wavy_dash: | :part_alternation_mark: | :trident: | :black_small_square: | :white_small_square: |
 | :black_medium_small_square: | :white_medium_small_square: | :black_medium_square: | :white_medium_square: | :black_large_square: | :white_large_square: | :white_check_mark: | :black_square_button: | :white_square_button: | :black_circle: | :white_circle: | :red_circle: |
-| :large_blue_circle: | :large_blue_diamond: | :large_orange_diamond: | :small_blue_diamond: | :small_orange_diamond: | :small_red_triangle: | :small_red_triangle_down: | :shipit: |
+| :large_blue_circle: | :large_blue_diamond: | :large_orange_diamond: | :small_blue_diamond: | :small_orange_diamond: | :small_red_triangle: | :small_red_triangle_down: | :shipit: |:black_square:|:couplekiss:|||
 
 
-:black_square:
-:couplekiss:
+
