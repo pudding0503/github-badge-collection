@@ -19,10 +19,42 @@
 
 
 
-### 2. 深色模式图片链接替换
+### 2. 点击展开
 
-你应该在 Github 设深色页面下看见白色的 Logo，在浅色背景下看见深色 Logo。两个 Logo 不会同时出现。
+```
+<details>
+<summary>点击展开</summary>
+
+折叠内容...
+
+</details>
+```
+
+<details>
+<summary>点击展开</summary>
+折叠内容...
+
+
+
+> [!CAUTION]
+> 折叠内容下的引用提醒框样式无法正常渲染。
+
+
+
+</details>
+
+### 3. 深色模式图片链接替换
+
+```
+# 仅在浅色页面背景下显示图片
+![Logo](assets/github-black.svg#gh-light-mode-only)
+
+# 仅在深色页面背景下显示图片
+![Logo](assets/github-white.svg#gh-dark-mode-only)
+```
+
+你应该在深色页面背景下看见白色的 Gtihub Logo，在浅色页面背景下看见深色的 Gtihub Logo，且两种不同颜色的 Logo 不会同时出现。
 
 ![Logo](assets/github-black.svg#gh-light-mode-only)
 
-![Logo](assets/github-white.svg#gh-light-mode-only)
+![Logo](assets/github-white.svg#gh-dark-mode-only)
