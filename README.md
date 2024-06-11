@@ -175,6 +175,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=用户名
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pudding0503&layout=compact)
 
+### 2.4 **[wakatime-charts](https://github.com/dvjn/wakatime-charts)**
+
+![Weekly Language Stats](https://raw.githubusercontent.com/dvjn/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
+![Weekly Project Stats](https://raw.githubusercontent.com/dvjn/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")
 
 
 ## 3. 访问量和趋势
