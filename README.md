@@ -219,7 +219,19 @@ https://starchart.cc/用户名/仓库名.svg
 
 ![](https://starchart.cc/caarlos0/starcharts.svg)
 
-### 3.3 个人贡献版
+### 3.3 [Github Socialify 头图](https://socialify.git.ci/)
+
+```
+https://socialify.git.ci/用户名/仓库名/image?
+
+参数，直接使用在线生成工具：https://socialify.git.ci/
+```
+
+| ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light) | ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Source%20Code%20Pro&forks=1&name=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Light) | ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Source%20Code%20Pro&forks=1&name=1&pattern=Circuit%20Board&stargazers=1&theme=Dark) |
+
+### 3.4 个人贡献版
 
 ```
 https://ghchart.rshah.org/用户名
@@ -229,11 +241,11 @@ https://ghchart.rshah.org/用户名
 
 ![](https://ghchart.rshah.org/pudding0503)
 
-### 3.4 [个人贡献版贪吃蛇版](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+### 3.5 [个人贡献版贪吃蛇版](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
-### 3.5 [贡献人员卡片](https://contrib.rocks/preview)
+### 3.6 [贡献人员卡片](https://contrib.rocks/preview)
 
 ```
 https://contrib.rocks/image?repo=用户名/仓库名
@@ -243,7 +255,7 @@ https://contrib.rocks/image?repo=用户名/仓库名
 
 ![](https://contrib.rocks/image?repo=bitcookies/winrar-keygen)
 
-### 3.6 [贡献人员卡片](https://opencollective.com/)
+### 3.7 [贡献人员卡片](https://opencollective.com/)
 
 ```
 https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=false
@@ -255,7 +267,7 @@ https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=fa
 
 ![](https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=false)
 
-### 3.7 [仓库概况](https://repobeats.axiom.co/)
+### 3.8 [仓库概况](https://repobeats.axiom.co/)
 
 ```
 https://repobeats.axiom.co/api/embed/55ee65543bb9a0f9c797626c4e66d472a517d17c.svg
@@ -312,7 +324,7 @@ https://github-profile-trophy.vercel.app/?username=用户名
 
 ## 8. [Wakatime 图表](https://wakatime.com/)
 
-| ![](https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg) | ![](https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg) |
+| ![](https://wakatime.com/share/embeddable/sun0225SUN/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg) | ![](https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 
