@@ -245,7 +245,13 @@ https://ghchart.rshah.org/用户名
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
-### 3.6 [贡献人员卡片](https://contrib.rocks/preview)
+### 3.6 [个人活动图](https://ashutosh00710.github.io/github-readme-activity-graph/)
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bitcookies&bg_color=ffffff&color=9e4c98&line=9992f7&point=1e6794&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+### 3.7 [贡献人员卡片](https://contrib.rocks/preview)
 
 ```
 https://contrib.rocks/image?repo=用户名/仓库名
@@ -255,7 +261,7 @@ https://contrib.rocks/image?repo=用户名/仓库名
 
 ![](https://contrib.rocks/image?repo=bitcookies/winrar-keygen)
 
-### 3.7 [贡献人员卡片](https://opencollective.com/)
+### 3.8 [贡献人员卡片](https://opencollective.com/)
 
 ```
 https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=false
@@ -267,7 +273,7 @@ https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=fa
 
 ![](https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=false)
 
-### 3.8 [仓库概况](https://repobeats.axiom.co/)
+### 3.9 [仓库概况](https://repobeats.axiom.co/)
 
 ```
 https://repobeats.axiom.co/api/embed/55ee65543bb9a0f9c797626c4e66d472a517d17c.svg
