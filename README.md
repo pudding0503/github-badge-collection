@@ -39,7 +39,8 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标
 1.图标库支持主流品牌、也可以使用 base64 嵌入自定义图标；
 2.图标库查看文档：https://simpleicons.org；
 3.图标支持 logoColor 参数设置颜色，但文字不支持设置颜色；
-4.微软家族图标貌似被 simple-icons 除名了。
+4.空格需要替换为 `%20`；
+5.微软家族图标貌似被 simple-icons 除名了。
 ```
 |                           plastic                            |                             flat                             |                         flat-square                          |                        for-the-badge                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -62,7 +63,8 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标
 1.图标库支持主流品牌、也可以使用 base64 嵌入自定义图标；
 2.图标库查看文档：https://simpleicons.org；
 3.图标支持 logoColor 参数设置颜色，但文字不支持设置颜色；
-4.微软家族图标貌似被 simple-icons 除名了。
+4.空格需要替换为 `%20`；
+5.微软家族图标貌似被 simple-icons 除名了。
 ```
 |                           plastic                            |                             flat                             |                         flat-square                          |                        for-the-badge                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -73,7 +75,7 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标
 | ![](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=Node.js&logoColor=ffffff) | ![](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=ffffff) | ![](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=ffffff) | ![](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=ffffff) |
 | ![](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=ffffff) | ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff) | ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) | ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff) |
 | ![](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white) | ![](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) | ![](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) | ![](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) |
-| ![](https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=plastic&logo=intellijidea&logoColor=ffffff) | ![](https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=flat&logo=intellijidea&logoColor=ffffff) | ![](https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=ffffff) | ![](https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=ffffff) |
+| ![](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=intellijidea&logoColor=ffffff) | ![](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellijidea&logoColor=ffffff) | ![](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=ffffff) | ![](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=ffffff) |
 | ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=ffffff) | ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=ffffff) | ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=ffffff) | ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff) |
 | ![](https://img.shields.io/badge/Swift-F05138.svg?style=plastic&logo=swift&logoColor=ffffff) | ![](https://img.shields.io/badge/Swift-F05138.svg?style=flat&logo=swift&logoColor=ffffff) | ![](https://img.shields.io/badge/Swift-F05138.svg?style=flat-square&logo=swift&logoColor=ffffff) | ![](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=ffffff) |
 
@@ -88,7 +90,8 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标&style=
 1.图标库支持主流品牌、也可以使用 base64 嵌入自定义图标；
 2.图标库查看文档：https://simpleicons.org；
 3.图标支持 logoColor 参数设置颜色，但文字不支持设置颜色；
-4.微软家族图标貌似被 simple-icons 除名了。
+4.空格需要替换为 `%20`；
+5.微软家族图标貌似被 simple-icons 除名了。
 ```
 
 |                            Views                             |                            Follow                            |
