@@ -246,6 +246,12 @@ https://starchart.cc/用户名/仓库名.svg
 
 ![](https://starchart.cc/caarlos0/starcharts.svg)
 
+```
+趋势卡片生成：https://star-history.com/
+```
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bitcookies/winrar-keygen&type=Date)](https://star-history.com/#bitcookies/winrar-keygen&Date)
+
 ### 3.3 [Github Socialify 头图](https://socialify.git.ci/)
 
 ```

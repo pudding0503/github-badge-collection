@@ -26,5 +26,6 @@
 3. 查看访问权限的信息，然后单击**授权 Zenodo**
 4. 导航到 [Zenodo GitHub 页面](https://zenodo.org/account/settings/github/)
 5. 在您要存档的存储库名称右侧，将按钮切换为 **“开”**
+6. 该仓库中必须要有 **CITATION.cff** 文件，在[这里生成](https://citation-file-format.github.io/cff-initializer-javascript/#/)
 
 每次创建新的 GitHub [发布版本](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)时，Zenodo 都会将版本库存档并发布新的 DOI（在授权关联前创建的发布版本不会生成相应的 DOI）。请按照 [“管理版本库中的发布版本”](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) 中的步骤创建一个新版本。
