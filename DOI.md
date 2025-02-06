@@ -2,7 +2,7 @@
 
 ### 1. [Figshare](https://mozillascience.github.io/code-research-object/)
 
-[Figshare](https://mozillascience.github.io/code-research-object/) 是 [Nature 等期刊](https://www.nature.com/sdata/policies/editorial-and-publishing-policies#code-avail)常用于生成 Github 仓库代码 DOI 号的工具，可以安装浏览器插件获取 DOI 号或者输入 Github repo 地址生成 DOI 徽章：
+[Figshare](https://mozillascience.github.io/code-research-object/) 是 [Nature](https://www.nature.com/sdata/policies/editorial-and-publishing-policies#code-avail) 等期刊常用于生成 Github 仓库代码 DOI 号的工具，可以安装浏览器插件获取 DOI 号或者输入 Github repo 地址生成 DOI 徽章：
 
 ```
 生成页面：https://mozillascience.github.io/code-research-object/

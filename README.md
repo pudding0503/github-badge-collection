@@ -180,9 +180,11 @@ https://github-readme-stats.vercel.app/api?username=用户名
 
 ```
 https://github-readme-streak-stats.herokuapp.com/?user=用户名
+
+更多主题：https://github-readme-streak-stats.herokuapp.com/demo/
 ```
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bitcookies)
+![](https://github-readme-streak-stats.herokuapp.com?user=bitcookies)
 
 ### 2.2 仓库卡片
 
