@@ -10,11 +10,12 @@
 
 这种生成 DOI 徽章的缺点是无法动态的进行更新，一般推荐使用 [Zenodo](https://about.zenodo.org/)。
 
-### 2. [Zenodo](https://about.zenodo.org/)
+### 2. [Zenodo](https://about.zenodo.org/)（推荐）
 
 为了使您的存储库更易于在学术文献中引用，您可以创建持久标识符，也称为数字对象标识符 (DOI)。您可以使用数据归档工具 [Zenodo](https://about.zenodo.org/) 在 GitHub 上归档存储库并为该归档发布 DOI。
 
 > [!TIP]
+>
 > - Zenodo 只能访问公共存储库，因此请确保您要存档的存储库是[公共的](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)。
 > - 如果您想存档属于某个组织的存储库，组织所有者可能需要批准 Zenodo 应用程序的[访问权限](https://docs.github.com/en/organizations/managing-oauth-access-to-your-organizations-data/approving-oauth-apps-for-your-organization)。
 > - 确保在您的存储库中包含[许可证](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)，以便读者知道如何重复使用您的作品。

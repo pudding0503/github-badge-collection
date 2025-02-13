@@ -4,15 +4,25 @@
  <p align="center">Github Badge Collection</p>
 </p>
 
-## 0. 说明
+## 说明
 
-本 README 主要收集一些零散的 Github 常用徽章、图标标识和活动图等。Github Markdown 技巧、DOI 号和 Emoji 等都在单独的文件中，下面是一个简单指引：
+本 README 主要收集一些零散的 Github 常用徽章和活动图等。
+
+DOI 号、标识图标、Emoji 和 Github 的 Markdown 技巧等都在单独的文件中，下面是一个简单指引：
 
 + [Github 生成 DOI 徽章](DOI.md)
++ [Github 一些可用的标识](GIF.md)
 + [Github 支持的 Emoji](Emoji.md)
 + [Github 的 Markdown 用法](Markdown.md)
 
-## 1. [Shields 徽章](https://shields.io/)
+<br><br>
+
+<p align="center">
+ <h4 align="center">> 1 徽章类 <</h4>
+</p>
+
+
+### 1. [Shields 徽章](https://shields.io/)
 
 Shields 适用于各类现有的或自定义名称的徽章。
 
@@ -30,7 +40,7 @@ logo自定义：https://shields.io/docs/logos
 Shields文档：https://shields.io/badges/static-badge
 ```
 
-### 1.1 品牌类静态图标
+#### 1.1 品牌类（静态）
 
 ```
 https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标
@@ -40,13 +50,10 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标
 2.图标库查看文档：https://simpleicons.org；
 3.图标支持 logoColor 参数设置颜色，但文字不支持设置颜色；
 4.空格需要替换为 `%20`；
-5.微软家族图标貌似被 simple-icons 除名了。
+5.微软和Adobe家族图标被 simple-icons 除名了，现在无法使用。
 ```
 |                           plastic                            |                             flat                             |                         flat-square                          |                        for-the-badge                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![](https://img.shields.io/badge/Windows-10-2376bc?style=plastic&logo=microsoft&logoColor=ffffff) | ![](https://img.shields.io/badge/Windows-10-2376bc?style=flat&logo=windows&logoColor=ffffff) | ![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff) | ![](https://img.shields.io/badge/Windows-10-2376bc?style=for-the-badge&logo=windows&logoColor=ffffff) |
-| ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=plastic&logo=visual-studio&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=flat&logo=visual-studio&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=flat-square&logo=visual-studio&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=for-the-badge&logo=visual-studio&logoColor=ffffff) |
-| ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=plastic&logo=visual-studio-code&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) |
 | ![](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) | ![](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black) | ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | ![](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white) | ![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
 | ![](https://img.shields.io/badge/iOS-333?style=plastic&logo=apple&logoColor=white) | ![](https://img.shields.io/badge/iOS-333?style=flat&logo=apple&logoColor=white) | ![](https://img.shields.io/badge/iOS-333?style=flat-square&logo=apple&logoColor=white) | ![](https://img.shields.io/badge/iOS-333?style=for-the-badge&logo=apple&logoColor=white) |
@@ -54,7 +61,17 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标
 | ![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) |
 | ![](https://img.shields.io/badge/Adobe-FF0000?style=plastic&logo=adobe) | ![](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe) | ![](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe) | ![](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe) |
 
-### 1.2 开发类静态图标
+需要注意的是微软和 Adobe 家族图标被 simple-icons 除名了，会出现如下表所示的标识缺失的问题：
+
+
+|                           plastic                            |                             flat                             |                         flat-square                          |                        for-the-badge                         |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://img.shields.io/badge/Windows-10-2376bc?style=plastic&logo=microsoft&logoColor=ffffff) | ![](https://img.shields.io/badge/Windows-10-2376bc?style=flat&logo=windows&logoColor=ffffff) | ![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff) | ![](https://img.shields.io/badge/Windows-10-2376bc?style=for-the-badge&logo=windows&logoColor=ffffff) |
+| ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=plastic&logo=visual-studio&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=flat&logo=visual-studio&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=flat-square&logo=visual-studio&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=for-the-badge&logo=visual-studio&logoColor=ffffff) |
+| ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=plastic&logo=visual-studio-code&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff) | ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) |
+| ![](https://img.shields.io/badge/Adobe-FF0000?style=plastic&logo=adobe) | ![](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe) | ![](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe) | ![](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe) |
+
+#### 1.2 开发类（静态）
 
 ```
 https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标
@@ -64,7 +81,7 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标
 2.图标库查看文档：https://simpleicons.org；
 3.图标支持 logoColor 参数设置颜色，但文字不支持设置颜色；
 4.空格需要替换为 `%20`；
-5.微软家族图标貌似被 simple-icons 除名了。
+5.微软和Adobe家族图标被 simple-icons 除名了，现在无法使用。
 ```
 |                           plastic                            |                             flat                             |                         flat-square                          |                        for-the-badge                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -79,7 +96,7 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标
 | ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=ffffff) | ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=ffffff) | ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=ffffff) | ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff) |
 | ![](https://img.shields.io/badge/Swift-F05138.svg?style=plastic&logo=swift&logoColor=ffffff) | ![](https://img.shields.io/badge/Swift-F05138.svg?style=flat&logo=swift&logoColor=ffffff) | ![](https://img.shields.io/badge/Swift-F05138.svg?style=flat-square&logo=swift&logoColor=ffffff) | ![](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=ffffff) |
 
-### 1.3 社交类
+#### 1.3 社交类（动态更新）
 
 ```
 https://img.shields.io/twitter/follow/:user
@@ -91,7 +108,7 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标&style=
 2.图标库查看文档：https://simpleicons.org；
 3.图标支持 logoColor 参数设置颜色，但文字不支持设置颜色；
 4.空格需要替换为 `%20`；
-5.微软家族图标貌似被 simple-icons 除名了。
+5.微软和Adobe家族图标被 simple-icons 除名了，现在无法使用。
 ```
 
 |                            Views                             |                            Follow                            |
@@ -99,7 +116,7 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标&style=
 |  ![](https://img.shields.io/github/stars/microsoft/vscode)   | ![](https://img.shields.io/twitter/follow/:realDonaldTrump)  |
 | ![](https://img.shields.io/youtube/channel/subscribers/UCUZHFZ9jIKrLroW8LcyJEQQ) | ![](https://img.shields.io/twitter/follow/Microsoft.svg?logo=microsoft) |
 
-### 1.4 自定义类静态图标
+#### 1.4 自定义类（静态）
 
 ```
 https://img.shields.io/badge/文字-颜色?logo=data:image/...
@@ -109,6 +126,9 @@ https://img.shields.io/badge/文字-颜色?logo=data:image/...
 2.支持 jpg, png, svg 等格式；
 3.使用 base64 编码后 logoColor 参数将会失效。
 ```
+微软和 Adobe 家族图标等，需要自行用 base64 编码定义：
+
+
 |                           plastic                            |                             flat                             |                         flat-square                          |                        for-the-badge                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![](https://img.shields.io/badge/Microsoft-000000?style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5MDY3MTMwIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjQyNTAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0wIDBoNDg2LjU5MnY0ODYuNTkySDB6IiBmaWxsPSIjRjI1MDIyIiBwLWlkPSI0MjUxIj48L3BhdGg+PHBhdGggZD0iTTUzNy40MDggMEgxMDI0djQ4Ni41OTJINTM3LjQwOHoiIGZpbGw9IiM3RkJBMDAiIHAtaWQ9IjQyNTIiPjwvcGF0aD48cGF0aCBkPSJNMCA1MzcuNDA4aDQ4Ni41OTJWMTAyNEgweiIgZmlsbD0iIzAwQTRFRiIgcC1pZD0iNDI1MyI+PC9wYXRoPjxwYXRoIGQ9Ik01MzcuNDA4IDUzNy40MDhIMTAyNFYxMDI0SDUzNy40MDh6IiBmaWxsPSIjRkZCOTAwIiBwLWlkPSI0MjU0Ij48L3BhdGg+PC9zdmc+) | ![](https://img.shields.io/badge/Microsoft-000000?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5MDY3MTMwIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjQyNTAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0wIDBoNDg2LjU5MnY0ODYuNTkySDB6IiBmaWxsPSIjRjI1MDIyIiBwLWlkPSI0MjUxIj48L3BhdGg+PHBhdGggZD0iTTUzNy40MDggMEgxMDI0djQ4Ni41OTJINTM3LjQwOHoiIGZpbGw9IiM3RkJBMDAiIHAtaWQ9IjQyNTIiPjwvcGF0aD48cGF0aCBkPSJNMCA1MzcuNDA4aDQ4Ni41OTJWMTAyNEgweiIgZmlsbD0iIzAwQTRFRiIgcC1pZD0iNDI1MyI+PC9wYXRoPjxwYXRoIGQ9Ik01MzcuNDA4IDUzNy40MDhIMTAyNFYxMDI0SDUzNy40MDh6IiBmaWxsPSIjRkZCOTAwIiBwLWlkPSI0MjU0Ij48L3BhdGg+PC9zdmc+) | ![](https://img.shields.io/badge/Microsoft-000000?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5MDY3MTMwIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjQyNTAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0wIDBoNDg2LjU5MnY0ODYuNTkySDB6IiBmaWxsPSIjRjI1MDIyIiBwLWlkPSI0MjUxIj48L3BhdGg+PHBhdGggZD0iTTUzNy40MDggMEgxMDI0djQ4Ni41OTJINTM3LjQwOHoiIGZpbGw9IiM3RkJBMDAiIHAtaWQ9IjQyNTIiPjwvcGF0aD48cGF0aCBkPSJNMCA1MzcuNDA4aDQ4Ni41OTJWMTAyNEgweiIgZmlsbD0iIzAwQTRFRiIgcC1pZD0iNDI1MyI+PC9wYXRoPjxwYXRoIGQ9Ik01MzcuNDA4IDUzNy40MDhIMTAyNFYxMDI0SDUzNy40MDh6IiBmaWxsPSIjRkZCOTAwIiBwLWlkPSI0MjU0Ij48L3BhdGg+PC9zdmc+) | ![](https://img.shields.io/badge/Microsoft-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5MDY3MTMwIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjQyNTAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0wIDBoNDg2LjU5MnY0ODYuNTkySDB6IiBmaWxsPSIjRjI1MDIyIiBwLWlkPSI0MjUxIj48L3BhdGg+PHBhdGggZD0iTTUzNy40MDggMEgxMDI0djQ4Ni41OTJINTM3LjQwOHoiIGZpbGw9IiM3RkJBMDAiIHAtaWQ9IjQyNTIiPjwvcGF0aD48cGF0aCBkPSJNMCA1MzcuNDA4aDQ4Ni41OTJWMTAyNEgweiIgZmlsbD0iIzAwQTRFRiIgcC1pZD0iNDI1MyI+PC9wYXRoPjxwYXRoIGQ9Ik01MzcuNDA4IDUzNy40MDhIMTAyNFYxMDI0SDUzNy40MDh6IiBmaWxsPSIjRkZCOTAwIiBwLWlkPSI0MjU0Ij48L3BhdGg+PC9zdmc+) |
@@ -118,9 +138,9 @@ https://img.shields.io/badge/文字-颜色?logo=data:image/...
 | ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5NjA3MzUyIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjYxMjAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik03MTguOTMzMzMzIDg1LjMzMzMzM0wzODcuODQgNDE2Ljg1MzMzM2wtMjA5LjA2NjY2Ny0xNjQuNjkzMzMzTDg3LjQ2NjY2NyAyOTguNjY2NjY3djQyNi42NjY2NjZsOTEuNzMzMzMzIDQ2LjUwNjY2NyAyMTAuMzQ2NjY3LTE2NC4yNjY2NjdMNzE5Ljc4NjY2NyA5MzguNjY2NjY3IDkzOC42NjY2NjcgODUwLjM0NjY2N1YxNzAuNjY2NjY3ek0xODYuNDUzMzMzIDYxMC4xMzMzMzNWNDExLjczMzMzM2wxMDQuMTA2NjY3IDEwMy42OHogbTUyNi4wOCA1NS4wNEw1MTQuMTMzMzMzIDUxMmwxOTguNC0xNTMuMTczMzMzeiIgcC1pZD0iNjEyMSIgZmlsbD0iI2ZmZmZmZiI+PC9wYXRoPjwvc3ZnPg==) | ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5NjA3MzUyIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjYxMjAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik03MTguOTMzMzMzIDg1LjMzMzMzM0wzODcuODQgNDE2Ljg1MzMzM2wtMjA5LjA2NjY2Ny0xNjQuNjkzMzMzTDg3LjQ2NjY2NyAyOTguNjY2NjY3djQyNi42NjY2NjZsOTEuNzMzMzMzIDQ2LjUwNjY2NyAyMTAuMzQ2NjY3LTE2NC4yNjY2NjdMNzE5Ljc4NjY2NyA5MzguNjY2NjY3IDkzOC42NjY2NjcgODUwLjM0NjY2N1YxNzAuNjY2NjY3ek0xODYuNDUzMzMzIDYxMC4xMzMzMzNWNDExLjczMzMzM2wxMDQuMTA2NjY3IDEwMy42OHogbTUyNi4wOCA1NS4wNEw1MTQuMTMzMzMzIDUxMmwxOTguNC0xNTMuMTczMzMzeiIgcC1pZD0iNjEyMSIgZmlsbD0iI2ZmZmZmZiI+PC9wYXRoPjwvc3ZnPg==) | ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5NjA3MzUyIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjYxMjAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik03MTguOTMzMzMzIDg1LjMzMzMzM0wzODcuODQgNDE2Ljg1MzMzM2wtMjA5LjA2NjY2Ny0xNjQuNjkzMzMzTDg3LjQ2NjY2NyAyOTguNjY2NjY3djQyNi42NjY2NjZsOTEuNzMzMzMzIDQ2LjUwNjY2NyAyMTAuMzQ2NjY3LTE2NC4yNjY2NjdMNzE5Ljc4NjY2NyA5MzguNjY2NjY3IDkzOC42NjY2NjcgODUwLjM0NjY2N1YxNzAuNjY2NjY3ek0xODYuNDUzMzMzIDYxMC4xMzMzMzNWNDExLjczMzMzM2wxMDQuMTA2NjY3IDEwMy42OHogbTUyNi4wOCA1NS4wNEw1MTQuMTMzMzMzIDUxMmwxOTguNC0xNTMuMTczMzMzeiIgcC1pZD0iNjEyMSIgZmlsbD0iI2ZmZmZmZiI+PC9wYXRoPjwvc3ZnPg==) | ![](https://img.shields.io/badge/IDE-Visual%20Stdio-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5NjA3MzUyIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjYxMjAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik03MTguOTMzMzMzIDg1LjMzMzMzM0wzODcuODQgNDE2Ljg1MzMzM2wtMjA5LjA2NjY2Ny0xNjQuNjkzMzMzTDg3LjQ2NjY2NyAyOTguNjY2NjY3djQyNi42NjY2NjZsOTEuNzMzMzMzIDQ2LjUwNjY2NyAyMTAuMzQ2NjY3LTE2NC4yNjY2NjdMNzE5Ljc4NjY2NyA5MzguNjY2NjY3IDkzOC42NjY2NjcgODUwLjM0NjY2N1YxNzAuNjY2NjY3ek0xODYuNDUzMzMzIDYxMC4xMzMzMzNWNDExLjczMzMzM2wxMDQuMTA2NjY3IDEwMy42OHogbTUyNi4wOCA1NS4wNEw1MTQuMTMzMzMzIDUxMmwxOTguNC0xNTMuMTczMzMzeiIgcC1pZD0iNjEyMSIgZmlsbD0iI2ZmZmZmZiI+PC9wYXRoPjwvc3ZnPg==) |
 | ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=**plastic**&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5NDQzMzg2IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjU5OTAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik03MjUuMzMzMzMzIDcwMi43MlYzMTUuMzA2NjY3bC0yNTYgMTkzLjcwNjY2Nk05NC43MiAzOTIuMTA2NjY3YTM2LjYwOCAzNi42MDggMCAwIDEtMC44NTMzMzMtNDkuMDY2NjY3bDUxLjItNDcuMzZjOC41MzMzMzMtNy42OCAyOS40NC0xMS4wOTMzMzMgNDQuOCAwbDE0NS45MiAxMTEuMzYgMzM4LjM0NjY2Ni0zMDkuMzMzMzMzYzEzLjY1MzMzMy0xMy42NTMzMzMgMzcuMTItMTkuMiA2NC01LjEybDE3MC42NjY2NjcgODEuNDkzMzMzYzE1LjM2IDguOTYgMjkuODY2NjY3IDIzLjA0IDI5Ljg2NjY2NyA0OS4wNjY2Njd2NTc2YzAgMTcuMDY2NjY3LTEyLjM3MzMzMyAzNS40MTMzMzMtMjUuNiA0Mi42NjY2NjZsLTE4Ny43MzMzMzQgODkuNmMtMTMuNjUzMzMzIDUuNTQ2NjY3LTM5LjI1MzMzMyAwLjQyNjY2Ny00OC4yMTMzMzMtOC41MzMzMzNsLTM0Mi4xODY2NjctMzExLjQ2NjY2Ny0xNDUuMDY2NjY2IDExMC45MzMzMzRjLTE2LjIxMzMzMyAxMS4wOTMzMzMtMzYuMjY2NjY3IDguMTA2NjY3LTQ0LjggMGwtNTEuMi00Ni45MzMzMzRjLTEzLjY1MzMzMy0xNC4wOC0xMS45NDY2NjctMzcuMTIgMi4xMzMzMzMtNTEuMmwxMjgtMTE1LjIiIGZpbGw9IiNmZmZmZmYiIHAtaWQ9IjU5OTEiPjwvcGF0aD48L3N2Zz4=) | ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5NDQzMzg2IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjU5OTAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik03MjUuMzMzMzMzIDcwMi43MlYzMTUuMzA2NjY3bC0yNTYgMTkzLjcwNjY2Nk05NC43MiAzOTIuMTA2NjY3YTM2LjYwOCAzNi42MDggMCAwIDEtMC44NTMzMzMtNDkuMDY2NjY3bDUxLjItNDcuMzZjOC41MzMzMzMtNy42OCAyOS40NC0xMS4wOTMzMzMgNDQuOCAwbDE0NS45MiAxMTEuMzYgMzM4LjM0NjY2Ni0zMDkuMzMzMzMzYzEzLjY1MzMzMy0xMy42NTMzMzMgMzcuMTItMTkuMiA2NC01LjEybDE3MC42NjY2NjcgODEuNDkzMzMzYzE1LjM2IDguOTYgMjkuODY2NjY3IDIzLjA0IDI5Ljg2NjY2NyA0OS4wNjY2Njd2NTc2YzAgMTcuMDY2NjY3LTEyLjM3MzMzMyAzNS40MTMzMzMtMjUuNiA0Mi42NjY2NjZsLTE4Ny43MzMzMzQgODkuNmMtMTMuNjUzMzMzIDUuNTQ2NjY3LTM5LjI1MzMzMyAwLjQyNjY2Ny00OC4yMTMzMzMtOC41MzMzMzNsLTM0Mi4xODY2NjctMzExLjQ2NjY2Ny0xNDUuMDY2NjY2IDExMC45MzMzMzRjLTE2LjIxMzMzMyAxMS4wOTMzMzMtMzYuMjY2NjY3IDguMTA2NjY3LTQ0LjggMGwtNTEuMi00Ni45MzMzMzRjLTEzLjY1MzMzMy0xNC4wOC0xMS45NDY2NjctMzcuMTIgMi4xMzMzMzMtNTEuMmwxMjgtMTE1LjIiIGZpbGw9IiNmZmZmZmYiIHAtaWQ9IjU5OTEiPjwvcGF0aD48L3N2Zz4=) | ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5NDQzMzg2IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjU5OTAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik03MjUuMzMzMzMzIDcwMi43MlYzMTUuMzA2NjY3bC0yNTYgMTkzLjcwNjY2Nk05NC43MiAzOTIuMTA2NjY3YTM2LjYwOCAzNi42MDggMCAwIDEtMC44NTMzMzMtNDkuMDY2NjY3bDUxLjItNDcuMzZjOC41MzMzMzMtNy42OCAyOS40NC0xMS4wOTMzMzMgNDQuOCAwbDE0NS45MiAxMTEuMzYgMzM4LjM0NjY2Ni0zMDkuMzMzMzMzYzEzLjY1MzMzMy0xMy42NTMzMzMgMzcuMTItMTkuMiA2NC01LjEybDE3MC42NjY2NjcgODEuNDkzMzMzYzE1LjM2IDguOTYgMjkuODY2NjY3IDIzLjA0IDI5Ljg2NjY2NyA0OS4wNjY2Njd2NTc2YzAgMTcuMDY2NjY3LTEyLjM3MzMzMyAzNS40MTMzMzMtMjUuNiA0Mi42NjY2NjZsLTE4Ny43MzMzMzQgODkuNmMtMTMuNjUzMzMzIDUuNTQ2NjY3LTM5LjI1MzMzMyAwLjQyNjY2Ny00OC4yMTMzMzMtOC41MzMzMzNsLTM0Mi4xODY2NjctMzExLjQ2NjY2Ny0xNDUuMDY2NjY2IDExMC45MzMzMzRjLTE2LjIxMzMzMyAxMS4wOTMzMzMtMzYuMjY2NjY3IDguMTA2NjY3LTQ0LjggMGwtNTEuMi00Ni45MzMzMzRjLTEzLjY1MzMzMy0xNC4wOC0xMS45NDY2NjctMzcuMTIgMi4xMzMzMzMtNTEuMmwxMjgtMTE1LjIiIGZpbGw9IiNmZmZmZmYiIHAtaWQ9IjU5OTEiPjwvcGF0aD48L3N2Zz4=) | ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzI4MTA5NDQzMzg2IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjU5OTAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik03MjUuMzMzMzMzIDcwMi43MlYzMTUuMzA2NjY3bC0yNTYgMTkzLjcwNjY2Nk05NC43MiAzOTIuMTA2NjY3YTM2LjYwOCAzNi42MDggMCAwIDEtMC44NTMzMzMtNDkuMDY2NjY3bDUxLjItNDcuMzZjOC41MzMzMzMtNy42OCAyOS40NC0xMS4wOTMzMzMgNDQuOCAwbDE0NS45MiAxMTEuMzYgMzM4LjM0NjY2Ni0zMDkuMzMzMzMzYzEzLjY1MzMzMy0xMy42NTMzMzMgMzcuMTItMTkuMiA2NC01LjEybDE3MC42NjY2NjcgODEuNDkzMzMzYzE1LjM2IDguOTYgMjkuODY2NjY3IDIzLjA0IDI5Ljg2NjY2NyA0OS4wNjY2Njd2NTc2YzAgMTcuMDY2NjY3LTEyLjM3MzMzMyAzNS40MTMzMzMtMjUuNiA0Mi42NjY2NjZsLTE4Ny43MzMzMzQgODkuNmMtMTMuNjUzMzMzIDUuNTQ2NjY3LTM5LjI1MzMzMyAwLjQyNjY2Ny00OC4yMTMzMzMtOC41MzMzMzNsLTM0Mi4xODY2NjctMzExLjQ2NjY2Ny0xNDUuMDY2NjY2IDExMC45MzMzMzRjLTE2LjIxMzMzMyAxMS4wOTMzMzMtMzYuMjY2NjY3IDguMTA2NjY3LTQ0LjggMGwtNTEuMi00Ni45MzMzMzRjLTEzLjY1MzMzMy0xNC4wOC0xMS45NDY2NjctMzcuMTIgMi4xMzMzMzMtNTEuMmwxMjgtMTE1LjIiIGZpbGw9IiNmZmZmZmYiIHAtaWQ9IjU5OTEiPjwvcGF0aD48L3N2Zz4=) |
 
-### 1.5 动态类图标
+#### 1.5 仓库类（动态更新）
 
-#### 1.5.1 Release 版本号
+##### 1.5.1 Release 版本号
 
 ```
 https://img.shields.io/github/release/用户名/仓库名
@@ -130,7 +150,7 @@ https://img.shields.io/github/release/用户名/仓库名
 
 ![](https://img.shields.io/github/release/bitcookies/winrar-keygen)
 
-#### 1.5.2 Issues 开启数量
+##### 1.5.2 Issues 开启数量
 
 ```
 https://img.shields.io/github/issues/用户名/仓库名?color=F48D73
@@ -142,7 +162,7 @@ https://img.shields.io/github/issues/用户名/仓库名?color=F48D73
 
 ![](https://img.shields.io/github/issues/bitcookies/winrar-keygen?color=F48D73)
 
-#### 1.5.3 License 许可
+##### 1.5.3 License 许可
 
 ```
 https://img.shields.io/github/license/用户名/仓库名.svg
@@ -153,7 +173,7 @@ https://img.shields.io/github/license/用户名/仓库名.svg
 | ![](https://img.shields.io/github/license/bitcookies/winrar-keygen.svg) | ![](https://img.shields.io/github/license/bitcookies/winrar-keygen.svg?logo=github) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-#### 1.5.4 Github Actions 状态
+##### 1.5.4 Github Actions 状态
 
 ```
 https://github.com/用户名/仓库名/actions/workflows/工作流文件名.yml/badge.svg
@@ -163,11 +183,15 @@ https://github.com/用户名/仓库名/actions/workflows/工作流文件名.yml/
 
 ![](https://github.com/bitcookies/winrar-keygen/actions/workflows/keygen.yml/badge.svg)
 
+<br><br>
 
+<p align="center">
+ <h4 align="center">> 2 活动图类 <</h4>
+</p>
 
-## 2. [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+### 2. [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-### 2.1 个人卡片
+#### 2.1 个人状态卡片
 
 ```
 https://github-readme-stats.vercel.app/api?username=用户名
@@ -175,18 +199,20 @@ https://github-readme-stats.vercel.app/api?username=用户名
 本例主题：default
 更多主题：https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 ```
-
 ![](https://github-readme-stats.vercel.app/api?username=bitcookies&show_icons=true&count_private=true&hide=prs&theme=default_repocard?colors=#fff)
+
+#### 2.2 [个人 Streak Stats 卡片](https://github-readme-streak-stats.herokuapp.com/demo/)
 
 ```
 https://github-readme-streak-stats.herokuapp.com/?user=用户名
 
 更多主题：https://github-readme-streak-stats.herokuapp.com/demo/
+Github仓库：https://github.com/DenverCoder1/github-readme-streak-stats
 ```
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=bitcookies)
 
-### 2.2 仓库卡片
+#### 2.3 [仓库卡片](https://github.com/anuraghazra/github-readme-stats)
 
 ```
 https://github-readme-stats.vercel.app/api/pin/?username=用户名&repo=仓库名
@@ -194,7 +220,7 @@ https://github-readme-stats.vercel.app/api/pin/?username=用户名&repo=仓库�
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=bitcookies&repo=winrar-keygen&theme=graywhite)
 
-### 2.3 用户语言比例
+#### 2.4 [语言比例卡片](https://github.com/anuraghazra/github-readme-stats)
 
 ```
 https://github-readme-stats.vercel.app/api/top-langs/?username=用户名
@@ -204,18 +230,26 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=用户名
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pudding0503&layout=compact)
 
-### 2.4 **[wakatime-charts](https://github.com/dvjn/wakatime-charts)**
+#### 2.5 **[Wakatime charts](https://github.com/dvjn/wakatime-charts)**
 
 ![Weekly Language Stats](https://raw.githubusercontent.com/dvjn/wakatime-charts/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
+
 ![Weekly Project Stats](https://raw.githubusercontent.com/dvjn/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")
 
+<br><br>
 
-## 3. 访问量和趋势
+<p align="center">
+ <h4 align="center">> 3 统计类 <</h4>
+</p>
 
-### 3.1 访问量
+### 3. 访问量和趋势
+
+#### 3.1 访问量
 
 ```
 https://komarev.com/ghpvc/?username=用户名
+
+Github仓库：https://github.com/antonkomarev/github-profile-views-counter
 ```
 
 ![](https://komarev.com/ghpvc/?username=pudding0503)
@@ -238,10 +272,12 @@ https://api.moedog.org/count/@用户名.readme
 
 ![](https://api.moedog.org/count/@pudding0503.readme)
 
-### 3.2 [Star 趋势卡片](https://github.com/caarlos0/starcharts)
+#### 3.2 [Star 趋势卡片](https://github.com/caarlos0/starcharts)
 
 ```
 https://starchart.cc/用户名/仓库名.svg
+
+Github仓库：https://github.com/caarlos0/starcharts
 ```
 
 
@@ -254,19 +290,7 @@ https://starchart.cc/用户名/仓库名.svg
 
 [![Star History Chart](https://api.star-history.com/svg?repos=bitcookies/winrar-keygen&type=Date)](https://star-history.com/#bitcookies/winrar-keygen&Date)
 
-### 3.3 [Github Socialify 头图](https://socialify.git.ci/)
-
-```
-https://socialify.git.ci/用户名/仓库名/image?
-
-参数，直接使用在线生成工具：https://socialify.git.ci/
-```
-
-| ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light) | ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Source%20Code%20Pro&forks=1&name=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Light) | ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Source%20Code%20Pro&forks=1&name=1&pattern=Circuit%20Board&stargazers=1&theme=Dark) |
-
-### 3.4 个人贡献版
+#### 3.3 个人贡献版
 
 ```
 https://ghchart.rshah.org/用户名
@@ -276,17 +300,15 @@ https://ghchart.rshah.org/用户名
 
 ![](https://ghchart.rshah.org/pudding0503)
 
-### 3.5 [个人贡献版贪吃蛇版](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+#### 3.4 [个人贡献版贪吃蛇版](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
-### 3.6 [个人活动图](https://ashutosh00710.github.io/github-readme-activity-graph/)
+#### 3.5 [个人活动图](https://ashutosh00710.github.io/github-readme-activity-graph/)
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bitcookies&bg_color=ffffff&color=9e4c98&line=9992f7&point=1e6794&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-### 3.7 [贡献人员卡片](https://contrib.rocks/preview)
+#### 3.6 [贡献人员卡片](https://contrib.rocks/preview)
 
 ```
 https://contrib.rocks/image?repo=用户名/仓库名
@@ -296,7 +318,7 @@ https://contrib.rocks/image?repo=用户名/仓库名
 
 ![](https://contrib.rocks/image?repo=bitcookies/winrar-keygen)
 
-### 3.8 [贡献人员卡片](https://opencollective.com/)
+#### 3.7 [贡献人员卡片](https://opencollective.com/)
 
 ```
 https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=false
@@ -308,19 +330,17 @@ https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=fa
 
 ![](https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=false)
 
-### 3.9 [仓库概况](https://repobeats.axiom.co/)
+#### 3.8 [仓库概况](https://repobeats.axiom.co/)
 
 ```
-https://repobeats.axiom.co/api/embed/55ee65543bb9a0f9c797626c4e66d472a517d17c.svg
+生成地址：https://repobeats.axiom.co/
 
-注：需注册账号，使用 Github 账号登陆并创建。
+注：需使用 Github 账号登录注册。
 ```
 
 ![](https://repobeats.axiom.co/api/embed/55ee65543bb9a0f9c797626c4e66d472a517d17c.svg)
 
-
-
-## 4. [metrics卡片](https://github.com/lowlighter/metrics) 
+#### 3.9 [metrics卡片](https://github.com/lowlighter/metrics) 
 
 |                      For user accounts                       |                  For organization accounts                   |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -330,9 +350,30 @@ https://repobeats.axiom.co/api/embed/55ee65543bb9a0f9c797626c4e66d472a517d17c.sv
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | Full year calendar[![img](https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.isocalendar.fullyear.svg)](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg)Half year calendar[![img](https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.isocalendar.svg)](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg)[](https://github.com/lowlighter/metrics) | Indepth analysis (clone and analyze repositories)[![img](https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.languages.indepth.svg)](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg)Recently used (analyze recent activity events)[![img](https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.languages.recent.svg)](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg) |
 
+#### 3.10 [Wakatime 图表](https://wakatime.com/)
 
+| ![](https://wakatime.com/share/embeddable/sun0225SUN/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg) | ![](https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-## 5. [Quotes 名言](https://github.com/PiyushSuthar/github-readme-quotes)
+<br><br>
+
+<p align="center">
+ <h4 align="center">> 4 其他装饰类 <</h4>
+</p>
+
+#### 4.1 [Github Socialify](https://socialify.git.ci/) 头图
+
+```
+https://socialify.git.ci/用户名/仓库名/image?
+
+参数，直接使用在线生成工具：https://socialify.git.ci/
+```
+
+| ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light) | ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Source%20Code%20Pro&forks=1&name=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Light) | ![](https://socialify.git.ci/bitcookies/winrar-keygen/image?font=Source%20Code%20Pro&forks=1&name=1&pattern=Circuit%20Board&stargazers=1&theme=Dark) |
+
+#### 4.2 [Quotes 名言](https://github.com/PiyushSuthar/github-readme-quotes)
 
 | ![](https://quotes-github-readme.vercel.app/api?type=vertical) | ![](https://quotes-github-readme.vercel.app/api?theme=dark)  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -340,9 +381,7 @@ https://repobeats.axiom.co/api/embed/55ee65543bb9a0f9c797626c4e66d472a517d17c.sv
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
-
-
-## 6. 奖杯 🏆
+#### 4.3 奖杯 🏆
 
 ```
 https://github-profile-trophy.vercel.app/?username=用户名
@@ -357,40 +396,18 @@ https://github-profile-trophy.vercel.app/?username=用户名
 
 ![](https://github-profile-trophy.vercel.app/?username=pudding0503&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true)
 
-## 7. 3D 个人资料
+<br><br>
+
+<p align="center">
+ <h4 align="center">> 5 Github Actions 类 <</h4>
+</p>
+
+#### 5.1 3D 个人贡献图
+
+```
+Github仓库：https://github.com/yoshi389111/github-profile-3d-contrib
+```
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+    <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg" width="100%"/>
 </div>
-
-## 8. [Wakatime 图表](https://wakatime.com/)
-
-| ![](https://wakatime.com/share/embeddable/sun0225SUN/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg) | ![](https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-
-
-
-## 9. 一些 GIF 和 PNG
-
-### 9.1 GIF 动态图标
-
-<div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="80" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="80" title="sublime">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" title="node">
-</div>
-
-### 9.2 [ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos)
-
-最近很火的 [Aikoyori](https://github.com/Aikoyori) 画的图标。
-
-| ![](https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/VSCode/VSCode.png?raw=true) | ![](https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/VSCode/VSCode-Thick.png?raw=true) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/IntelliJIDEA/IntellijLogo.png?raw=true) | ![](https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/IntelliJIDEA/intelliJShadow.png?raw=true) |
-| ![](https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/Docker/DockerLogo.png?raw=true) | ![](https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/Docker/DockerLogoShadowed.png?raw=true) |
-
