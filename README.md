@@ -18,8 +18,9 @@ DOI 号、标识图标、Emoji 和 Github 的 Markdown 技巧等都在单独的�
 <br><br>
 
 <p align="center">
- <h4 align="center">> 1 徽章类 <</h4>
+ <h3 align="center">> 1 徽章类 <</h3>
 </p>
+
 
 
 ### 1. [Shields 徽章](https://shields.io/)
@@ -186,8 +187,9 @@ https://github.com/用户名/仓库名/actions/workflows/工作流文件名.yml/
 <br><br>
 
 <p align="center">
- <h4 align="center">> 2 活动图类 <</h4>
+ <h3 align="center">> 2 活动图类 <</h3>
 </p>
+
 
 ### 2. [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
@@ -236,11 +238,25 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=用户名
 
 ![Weekly Project Stats](https://raw.githubusercontent.com/dvjn/wakatime-charts/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")
 
+### 2.6 **[Summary Cards](https://github-profile-summary-cards.vercel.app/demo.html)**
+
+```
+生成页面：https://github-profile-summary-cards.vercel.app/demo.html
+Github仓库：https://github.com/vn7n24fzkq/github-profile-summary-cards
+```
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bitcookies&theme=default)
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bitcookies&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bitcookies&theme=default) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitcookies&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bitcookies&theme=default&utcOffset=8) |
+
 <br><br>
 
 <p align="center">
- <h4 align="center">> 3 统计类 <</h4>
+ <h3 align="center">> 3 统计类 <</h3>
 </p>
+
 
 ### 3. 访问量和趋势
 
@@ -352,14 +368,15 @@ https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=fa
 
 #### 3.10 [Wakatime 图表](https://wakatime.com/)
 
-| ![](https://wakatime.com/share/embeddable/sun0225SUN/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg) | ![](https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](assets/wakatime-demo-1.svg) | ![](assets/wakatime-demo-2.svg) |
+| :-----------------------------: | :-----------------------------: |
 
 <br><br>
 
 <p align="center">
- <h4 align="center">> 4 其他装饰类 <</h4>
+ <h3 align="center">> 4 其他装饰类 <</h3>
 </p>
+
 
 #### 4.1 [Github Socialify](https://socialify.git.ci/) 头图
 
@@ -399,8 +416,9 @@ https://github-profile-trophy.vercel.app/?username=用户名
 <br><br>
 
 <p align="center">
- <h4 align="center">> 5 Github Actions 类 <</h4>
+ <h3 align="center">> 5 Github Actions 类 <</h3>
 </p>
+
 
 #### 5.1 3D 个人贡献图
 
