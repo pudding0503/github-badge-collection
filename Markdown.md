@@ -53,7 +53,7 @@
 ![Logo](assets/github-white.svg#gh-dark-mode-only)
 ```
 
-你应该在深色页面背景下看见白色的 Gtihub Logo，在浅色页面背景下看见深色的 Gtihub Logo，且两种不同颜色的 Logo 不会同时出现。
+你应该在深色页面背景下看见白色的 Gtihub Logo，在浅色页面背景下看见黑色的 Gtihub Logo，且两种不同颜色的 Logo 不会同时出现。
 
 ![Logo](assets/github-black.svg#gh-light-mode-only)
 
