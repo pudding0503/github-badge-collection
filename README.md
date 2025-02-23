@@ -24,6 +24,7 @@ DOI 号、标识图标、Emoji 和 Github 的 Markdown 技巧等都在单独的�
 
 
 
+
 ### 1. [Shields 徽章](https://shields.io/)
 
 Shields 适用于各类现有的或自定义名称的徽章。
@@ -188,8 +189,9 @@ https://github.com/用户名/仓库名/actions/workflows/工作流文件名.yml/
 <br><br>
 
 <p align="center">
- <h3 align="center">Ⅱ 活动图类</h3>
+ <h3 align="center"> Ⅱ. 活动图类 </h3>
 </p>
+
 
 
 
@@ -256,8 +258,9 @@ Github仓库：https://github.com/vn7n24fzkq/github-profile-summary-cards
 <br><br>
 
 <p align="center">
- <h3 align="center">Ⅲ 统计类</h3>
+ <h3 align="center"> Ⅲ. 统计类 </h3>
 </p>
+
 
 
 
@@ -372,8 +375,9 @@ https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=fa
 <br><br>
 
 <p align="center">
- <h3 align="center">Ⅳ 其他装饰类</h3>
+ <h3 align="center"> Ⅳ. 其他装饰类 </h3>
 </p>
+
 
 
 
@@ -415,9 +419,8 @@ https://github-profile-trophy.vercel.app/?username=用户名
 <br><br>
 
 <p align="center">
-<h3 align="center">Ⅴ 自动化 Actions 和 <a href="https://wakatime.com/">Wakatime</a></h3>
+<h3 align="center">Ⅴ. Github Actions 和 <a href="https://wakatime.com/">Wakatime</a></h3>
 </p>
-
 
 
 
