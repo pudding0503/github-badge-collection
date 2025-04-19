@@ -186,6 +186,19 @@ https://github.com/用户名/仓库名/actions/workflows/工作流文件名.yml/
 
 ![](https://github.com/bitcookies/winrar-keygen/actions/workflows/keygen.yml/badge.svg)
 
+##### 1.5.5 Github Stars / Forks 数据
+
+```
+forks:
+https://img.shields.io/github/forks/用户名/仓库名.svg?style=social&label=Fork&maxAge=2592000
+
+stars:
+https://img.shields.io/github/stars/用户名/仓库名.svg?style=social&label=Star&maxAge=2592000
+```
+
+| ![GitHub forks](https://img.shields.io/github/forks/bitcookies/winrar-keygen.svg?style=social&label=Fork&maxAge=2592000) | ![GitHub stars](https://img.shields.io/github/stars/bitcookies/winrar-keygen.svg?style=social&label=Star&maxAge=2592000) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+
 <br><br>
 
 <p align="center">
@@ -311,6 +324,12 @@ Github仓库：https://github.com/caarlos0/starcharts
 ```
 
 [![Star History Chart](https://api.star-history.com/svg?repos=bitcookies/winrar-keygen&type=Date)](https://star-history.com/#bitcookies/winrar-keygen&Date)
+
+```
+趋势卡片生成：https://stars.medv.io/
+```
+
+[![Sparkline](https://stars.medv.io/facebook/react.svg)](https://stars.medv.io/facebook/react)
 
 #### 3.3 个人贡献版
 
