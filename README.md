@@ -62,7 +62,6 @@ https://img.shields.io/badge/左侧文字-右侧文字-颜色?logo=图标
 | ![](https://img.shields.io/badge/iOS-333?style=plastic&logo=apple&logoColor=white) | ![](https://img.shields.io/badge/iOS-333?style=flat&logo=apple&logoColor=white) | ![](https://img.shields.io/badge/iOS-333?style=flat-square&logo=apple&logoColor=white) | ![](https://img.shields.io/badge/iOS-333?style=for-the-badge&logo=apple&logoColor=white) |
 | ![](https://img.shields.io/badge/Chrome-4285F4?style=plastic&logo=GoogleChrome&logoColor=white) | ![](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white) | ![](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) | ![](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) |
 | ![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![](https://img.shields.io/badge/Adobe-FF0000?style=plastic&logo=adobe) | ![](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe) | ![](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe) | ![](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe) |
 
 需要注意的是微软和 Adobe 家族图标被 simple-icons 除名了，会出现如下表所示的标识缺失的问题：
 
@@ -466,4 +465,4 @@ Github仓库：https://github.com/yoshi389111/github-profile-3d-contrib
 
 #### 5.3 [开发指标 Dev Metrics](https://github.com/athul/waka-readme)
 
-![](assets/waka-readme.png)
+![](https://github.com/athul/waka-readme/assets/38415384/29541cbc-0e39-47c4-93c2-514032b47276)
